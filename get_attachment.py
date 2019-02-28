@@ -13,7 +13,7 @@ import pandas as pd
 import datetime
 
 FILE_REKAP = 'New Products Assmt.xlsx'
-MOVE_EML = False
+MOVE_EML = True
 
 files = [f for f in os.listdir('.') if os.path.isfile(f)]
 
@@ -42,7 +42,16 @@ def download_eml_attachment(eml_file,dest_path,move_eml=True):
             for i in range(1,len(msg.get_payload())):
                 attachment = msg.get_payload()[i]
                 attachment_name = attachment.get_filename()
-                open(attachment_name,'wb').write(attachment.get_payload(decode=True))                
+                open(attachment_name,'wb').write(attachment.get_payload(decode=True))
+                print(os.path.isfile(os.path.join(dir_path, attachment_name)))
+                attachment_name_old=attachment_name
+                attachment_name = attachment_name.replace("&","")
+                attachment_name = attachment_name.replace(";","")
+                ext = attachment_name.split(".")[-1]
+                if (len(attachment_name) >= 60):
+                    attachment_name = attachment_name[:50]+"."+ext
+                    os.rename(attachment_name_old, attachment_name)
+                print(attachment_name)
                 if os.path.isdir(dest_path):
                     shutil.move(os.path.join(dir_path, attachment_name),
                                 os.path.join(dest_path, attachment_name))
@@ -53,7 +62,7 @@ def download_eml_attachment(eml_file,dest_path,move_eml=True):
                 is_success = True
             if is_success and move_eml == True:
                 shutil.move(os.path.join(dir_path, eml_file), os.path.join(dest_path, eml_file))
-                  
+
 def main_eml():
     dir_path = os.path.dirname(os.path.realpath(__file__))
     rekap = pd.read_excel(FILE_REKAP,sheet_name='Sheet1')
@@ -71,9 +80,9 @@ def main_eml():
                     os.mkdir(dest_path)
                 if os.path.isdir(dest_path):
                     if MOVE_EML == True:
-                        download_eml_attachment(eml_file,dest_path,False)
+                        download_eml_attachment(eml_file,dest_path,True)
                     else:
-                        download_eml_attachment(eml_file,dest_path)
+                        download_eml_attachment(eml_file,dest_path,False)
                 rekap = rekap.append({'No' : num ,'Nota Dinas': nodin, 'Title / Subject' : subject,
                                       'Tanggal Terima' : datetime.datetime.now(),
                                       'Assessment Status' : 'not started'} , ignore_index=True)
