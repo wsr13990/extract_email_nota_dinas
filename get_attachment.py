@@ -13,6 +13,7 @@ import pandas as pd
 import datetime
 
 FILE_REKAP = 'New Products Assmt.xlsx'
+TXT_FILE = 'rekap_nodin.txt'
 MOVE_EML = True
 
 files = [f for f in os.listdir('.') if os.path.isfile(f)]
@@ -71,7 +72,8 @@ def main_eml():
             subject = get_eml_subject(eml_file)
             nodin = get_eml_nota_dinas(eml_file)
             if len(rekap[rekap['Nota Dinas'].str.strip()==nodin]) >= 1:
-                os.remove(eml_file)
+#                os.remove(eml_file)
+                pass
             else:         
                 num = max(rekap['No'], default=0) + 1
                 folder = get_eml_nota_dinas(eml_file).replace('/','').replace('.','')
@@ -87,6 +89,10 @@ def main_eml():
                                       'Tanggal Terima' : datetime.datetime.now(),
                                       'Assessment Status' : 'not started'} , ignore_index=True)
             rekap.to_excel(FILE_REKAP,index=False)
+            rekap['Folder'] = rekap['Nota Dinas'].map(lambda x: x.replace('/',''))
+            rekap[['Folder','Nota Dinas','Title / Subject','Tanggal Terima']].to_csv(TXT_FILE,sep='|', index=False, header=True)
+
+            
             
 ##TODO: Add .msg functionality
                 

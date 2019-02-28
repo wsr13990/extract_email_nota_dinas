@@ -1,0 +1,89 @@
+Folder|Nota Dinas|Title / Subject|Tanggal Terima
+005MK.05PS-03I2019|005/MK.05/PS-03/I/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 06 per Januari 2019 (005/MK.05/PS-03/I/2019)|2019-01-15 00:00:00.000
+020MK.05PS-05I2019|020/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket MAXStream Konten Original Nawangsih (Postpaid) (020/MK.05/PS-05/I/2019)|2019-01-15 00:00:00.000
+028MK.05PS-05I2019|028/MK.05/PS-05/I/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR) PAYU Prepaid Postpaid SLI (Audit2018) (028/MK.05/PS-05/I/2019)|2019-01-16 00:00:00.000
+0334IS.01EN-01I2019|0334/IS.01/EN-01/I/2019|[Nota Dinas] Pelaporan Hasil Eksekusi Other Charging Billing IoT dan Revenue Reversal Periode Desember 2018 (0334/IS.01/EN-01/I/2019)|2019-01-16 00:00:00.000
+011MK.05PS-33I2019|011/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFS Paket Roamzing (011/MK.05/PS-33/I/2019)|2019-01-18 00:00:00.000
+006MK.05PS-37I2019|006/MK.05/PS-37/I/2019|[Nota Dinas] Request Penambahan Product Data Deal Postpaid End of Month di Digicore (006/MK.05/PS-37/I/2019)|2019-01-22 00:00:00.000
+OMS 010MK.05PS-37I2019|OMS 010/MK.05/PS-37/I/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Postpaid pada Sistem Digicore 6.3 Entertainment (OMS) (010/MK.05/PS-37/I/2019)|2019-01-28 00:00:00.000
+018MK.05PS-37II2019|018/MK.05/PS-37/II/2019|[Nota Dinas] Request Penambahan Product Surprisse Deal Postpaid di Digicore (018/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+UMB 0113MK.05PS-05II2019|UMB 0113/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Segment Surprise Deal Postpaid 7 Februari 2019 (UMB) (0113/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+023MK.05PS-33II2019|023/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFI Migration Roaming Postpaid Non-Rollover Ph2 (023/MK.05/PS-33/II/2019)|2019-02-14 00:00:00.000
+021MK.05PS-33II2019|021/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFS Paket Voice Deal Via UMB (OMSKE2TH19) (021/MK.05/PS-33/II/2019)|2019-02-14 00:00:00.000
+025MK.05PS-33II2019|025/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Voice Deal (OMSKE2TH19) (025/MK.05/PS-33/II/2019)|2019-02-14 00:00:00.000
+0132MK.05PS-05II2019|0132/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Surprise Deal Postpaid 14 Februari 2019 (UMB) (0132/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+021MK.05PS-37II2019|021/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFS Surprise Deal Postpaid 14 Februari 2019 (MyTsel - Digicore) (021/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+0136MK.05PS-05II2019|0136/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Campaign HVC Potspaid via CMS added Product (0136/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+0137MK.05PS-05II2019|0137/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket Surprise Deal MusicMAX (Postpaid) pada Channel UMB (0137/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+0102MK.05PS-05II2019|0102/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Flexible Offer Installment W4 Jan 2019 (0102/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+019MK.05PS-33II2019|019/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFS Paket Add On Tcash melalui CRM UMB (Ph2) (019/MK.05/PS-33/II/2019)|2019-02-14 00:00:00.000
+014MK.05PS-37II2019|014/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFS Surprise Deal Postpaid 7 Februari 2019 (UMB) (014/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+013MK.05PS-37II2019|013/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFS Surprise Deal Postpaid 7 Februari 2019 (Digicore) (013/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+016MK.05PS-37II2019|016/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFS Segmentasi Surprise Deal Postpaid 7 Februari 2019 (Digicore) (016/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+015MK.05PS-37II2019|015/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFS Segment Surprise Deal Postpaid 7 Februari 2019 (UMB) (015/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+0110MK.05PS-05II2019|0110/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Surprise Deal Postpaid 7 Februari 2019 (UMB) (0110/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+017MK.05PS-37II2019|017/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFI Kuota Konten Paket Halo Kick untuk Seluruh Portofolio Digital Lifestyle (017/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+019MK.05PS-37II2019|019/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFI Segmentasi Surprise Deal Postpaid 7 Februari 2019 (Digicore) (019/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+0118MK.05PS-05II2019|0118/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Produk MAXstream untuk Konten Original Nawangsih Postpaid MyTelkomsel (0118/MK.05/PS-05/II/2019)|2019-02-14 00:00:00.000
+023MK.05PS-03II2019|023/MK.05/PS-03/II/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 01 per Januari 2019 (023/MK.05/PS-03/II/2019)|2019-02-14 00:00:00.000
+024MK.05PS-03II2019|024/MK.05/PS-03/II/2019|[Nota Dinas] Permohonan Batch PP untuk Pelanggan PP Hybrid ke Bebas Abonemen (024/MK.05/PS-03/II/2019)|2019-02-14 00:00:00.000
+020MK.05PS-37II2019|020/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan RFS Surprise Deal Postpaid 14 Februari 2019 (UMB) (020/MK.05/PS-37/II/2019)|2019-02-14 00:00:00.000
+093MK.05PS-05I2019|093/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket UCL dan Europe League Postpaid di MyTelkomsel (093/MK.05/PS-05/I/2019)|2019-02-14 00:00:00.000
+090MK.05PS-05I2019|090/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket Gimmick for Payment Stimulation (090/MK.05/PS-05/I/2019)|2019-02-14 00:00:00.000
+088MK.05PS-05I2019|088/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) New MusicMAX Postpaid di MyTelkomsel (088/MK.05/PS-05/I/2019)|2019-02-14 00:00:00.000
+089MK.05PS-05I2019|089/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket Free Add On 8GB Contract Postpaid (089/MK.05/PS-05/I/2019)|2019-02-14 00:00:00.000
+017MK.05PS-03I2019|017/MK.05/PS-03/I/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 20 per Januari 2019 (017/MK.05/PS-03/I/2019)|2019-02-14 00:00:00.000
+015MK.05PS-33I2019|015/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFI Migration Roaming Postpaid Non-Rollover Ph1 (015/MK.05/PS-33/I/2019)|2019-02-14 00:00:00.000
+077MK.05PS-05I2019|077/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket New MusicMAX (Postpaid) Pada Channel UMB (077/MK.05/PS-05/I/2019)|2019-02-14 00:00:00.000
+073MK.05PS-05I2019|073/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Profile UPCC Standalone Roaming Postpaid Ph2 (073/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+01438MK.05PS-05I2019|01438/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) New Ekstra Kuota Recurring Postpaid Ph.2 (01438/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+023MK.05PS-37II2019|023/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Postpaid pada Sistem Digicore 6.3 Entertainment (OMS) (023/MK.05/PS-37/II/2019)|2019-02-15 00:00:00.000
+030MK.05PS-33II2019|030/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFI Migration Roaming Postpaid Non-Rollover Ph3 (030/MK.05/PS-33/II/2019)|2019-02-15 00:00:00.000
+049MK.05PS-05I2019|049MK.05PS-05I2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket Surprise Deal Postpaid New Validity (049MK.05PS-05I2019)|2019-02-15 00:00:00.000
+0155MK.05PS-05II2019|0155/MK.05/PS-05/II/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR) PAYU Prepaid Hybrid (Audit2018) Ph2 (0155/MK.05/PS-05/II/2019)|2019-02-15 00:00:00.000
+0158MK.05PS-05II2019|0158/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Surprise Deal Postpaid MusicMax  (Digicore - OMS) (0158/MK.05/PS-05/II/2019)|2019-02-15 00:00:00.000
+064MK.05PS-05I2019|064/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket 3in1 Roaming Non Rollover melalui Channel UMB (Ph2) (064/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+003MK.05PS-05I2019|003/MK.05/PS-05/I/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR) Pembukaan Eligibility Ekstra Kuota Harian untuk Paket Non Halo Kick (003/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+065MK.05PS-05I2019|065/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) New Bundling Plan Halo Kick Small Deno ph.2 (065/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+052MK.05PS-05I2019|052/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) New Bundling Plan Halo Kick Small Deno ph. 1 (052/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+048MK.05PS-05I2019|048/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Flexible Offer Installment W2 Jan 2019 (048/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+047MK.05PS-05I2019|047/MK.05/PS-05/I/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Data Deal Postpaid Validity Akhir Bulan (Digicore) (047/MK.05/PS-05/I/2019)|2019-02-15 00:00:00.000
+004SV.05CM-61I2019|004/SV.05/CM-61/I/2019|[Nota Dinas] Perubahan Layanan dari Trial ke Komersial APN untuk PT. Ingenico International Indonesia (004/SV.05/CM-61/I/2019)|2019-02-15 00:00:00.000
+008SV.05CM-61I2019|008/SV.05/CM-61/I/2019|[Nota Dinas] Permohonan Terminate APN M2MDNBJBS dan M2MDNMYB untuk Corporate Wincor Nixdorf (008/SV.05/CM-61/I/2019)|2019-02-15 00:00:00.000
+005SV.05CM-61I2019|005/SV.05/CM-61/I/2019|[Nota Dinas] Permohonan Term,inate Massal APN expired dan Pergantian nomor APN (005/SV.05/CM-61/I/2019)|2019-02-15 00:00:00.000
+008MK.05PS-03I2019|008/MK.05/PS-03/I/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 11 per Januari 2019 (008/MK.05/PS-03/I/2019)|2019-02-15 00:00:00.000
+001MK.05PS-03I2019|001/MK.05/PS-03/I/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 1 per Desember 2018 (001/MK.05/PS-03/I/2019)|2019-02-15 00:00:00.000
+009MK.05PS-33I2019|009/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFS Paket Voice &amp; SMS pada Sistem Digicore Drop 6.2 (009/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+003MK.05PS-37I2019|003/MK.05/PS-37/I/2019|[Nota Dinas] Pemberitahuan RFS Paket Surprise Deal Postpaid New Validity (003/MK.05/PS-37/I/2019)|2019-02-15 00:00:00.000
+010MK.05PS-33I2019|010/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFS Paket Roaming pada Sistem Digicore Drop 6.3 (010/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+012MK.05PS-33I2019|012/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFS Paket Gimmick for Payment Stimulation (012/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+009MK.05PS-37I2019|009/MK.05/PS-37/I/2019|[Nota Dinas] Pemberitahuan RFS Paket Free Add On 8GB Contract Postpaid (009/MK.05/PS-37/I/2019)|2019-02-15 00:00:00.000
+005MK.05PS-37I2019|005/MK.05/PS-37/I/2019|[Nota Dinas] Pemberitahuan RFS Data Deal Postpaid Validity Akhir BUlan (Digicore) (005/MK.05/PS-37/I/2019)|2019-02-15 00:00:00.000
+007MK.05PS-33I2019|007/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFS Data Deal Postpaid Validity Akhir BUlan (Digicore) ([Nota Dinas] Pemberitahuan RFI Trial Migration Roaming Postpaid Non-Rollover (007/MK.05/PS-33/I/2019))|2019-02-15 00:00:00.000
+006MK.05PS-33I2019|006/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFI PAYU Prepaid Postpaid SLI (Audit2018) (006/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+001MK.05PS-33I2019|001/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan RFI PAYU Prepaid Hybrid (Audit2018) Ph2 (001/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+014MK.05PS-33I2019|014/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Voice &amp; SMS pada Sistem Digicore Drop 6.2 (014/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+013MK.05PS-33I2019|013/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Roamzing (013/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+008MK.05PS-33I2019|008/MK.05/PS-33/I/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket 3in1 Roaming Non Rollover melalui Channel UMB (Ph2) (008/MK.05/PS-33/I/2019)|2019-02-15 00:00:00.000
+007MK.05PS-37I2019|007/MK.05/PS-37/I/2019|[Nota Dinas] Pemberitahuan Revisi RFS New Bundling Plan Halo Kick Small Deno ph.2 (007/MK.05/PS-37/I/2019)|2019-02-15 00:00:00.000
+008MK.05PS-37I2019|008/MK.05/PS-37/I/2019|[Nota Dinas] Pemberitahuan Revisi RFS New Bundling Plan Halo Kick Small Deno ph.1 (008/MK.05/PS-37/I/2019)|2019-02-16 00:40:29.022
+031MK.05PS-33II2019|031/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFS Weekend Voice Deal pada sistem Digicore (031/MK.05/PS-33/II/2019)|2019-02-18 14:02:02.420
+0169MK.05PS-05II2019|0169/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) FO Field Force 75K (0169/MK.05/PS-05/II/2019)|2019-02-18 14:02:02.650
+0170MK.05PS-05II2019|0170/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) FO VMWare PT Sharp (0170/MK.05/PS-05/II/2019)|2019-02-18 14:02:02.920
+0171MK.05PS-05II2019|0171/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket MAXstream Prambors (Postpaid) pada Channel UMB (0171/MK.05/PS-05/II/2019)|2019-02-18 14:02:03.099
+028MK.05PS-03II2019|028/MK.05/PS-03/II/2019|FW: [Nota Dinas] Permohonan Batch Upgrade CLS Domestik Pelanggan kartuHALO (028/MK.05/PS-03/II/2019)|2019-02-19 11:34:38.453
+033MK.05PS-33II2019|033/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFI Penambahan Coverage Paket Roaming Promo Eropa Amerika (Voice &amp; SMS) (033/MK.05/PS-33/II/2019)|2019-02-19 17:32:02.213
+029MK.05PS-03II2019|029/MK.05/PS-03/II/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 11 per Februari 2019 (029/MK.05/PS-03/II/2019)|2019-02-19 17:32:02.392
+037MK.05PS-33II2019|037/MK.05/PS-33/II/2019|FW: [Nota Dinas] Pemberitahuan RFS Paket Roamazing (037/MK.05/PS-33/II/2019)|2019-02-20 11:53:14.433
+0192MK.05PS-05II2019|0192/MK.05/PS-05/II/2019|FW: [Nota Dinas] Status Kesiapan Komersial (RFC) FO Device Installment Corporate W3 Feb (0192/MK.05/PS-05/II/2019)|2019-02-22 14:42:08.507
+032MK.05PS-03II2019|032/MK.05/PS-03/II/2019|[Nota Dinas] Permohonan Batch Offer Bonus Spesial Migrasi (032/MK.05/PS-03/II/2019)|2019-02-25 14:55:03.536
+031MK.05PS-03II2019|031/MK.05/PS-03/II/2019|[Nota Dinas] Permohonan Batch Value CLS (031/MK.05/PS-03/II/2019)|2019-02-25 14:55:03.671
+0197MK.05PS-05II2019|0197/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Weekend Voice Deal pada sistem Digicore (0197/MK.05/PS-05/II/2019)|2019-02-25 14:55:04.057
+042MK.05PS-33II2019|042/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFS Paket Roaming Prepaid Standalone pada Sistem Digicore (Promo Eropa Amerika, Asia Reguler, Eropa Reguler, Amerika Afrika, dan Haji) (042/MK.05/PS-33/II/2019)|2019-02-25 14:55:04.057
+034MK.05PS-03II2019|034/MK.05/PS-03/II/2019|FW: [Nota Dinas] Permohonan Batch Perubahan CLS Domestik Pelanggan kartuHALO Menjadi Rp500,000 (034/MK.05/PS-03/II/2019)|2019-02-26 17:11:11.489
+0208MK.05PS-05II2019|0208/MK.05/PS-05/II/2019|FW: [Nota Dinas] Status Kesiapan Komersial (RFC)  Paket Project PT. Akses Prima Indonesia Postpaid (0208/MK.05/PS-05/II/2019)|2019-02-26 17:11:11.813
+027MK.05PS-37II2019|027/MK.05/PS-37/II/2019|FW: [Nota Dinas] Pemberitahuan RFS Halo Kick Bundling Samsung S10 (027/MK.05/PS-37/II/2019)|2019-02-27 09:21:14.794
+016SV.05CM-61II2019|016/SV.05/CM-61/II/2019|FW: [Nota Dinas] Permohonan Migration APN Corporate Legacy KEMENKEU Menjadi M2M (016/SV.05/CM-61/II/2019)|2019-02-28 11:01:31.893
+017SV.05CM-61II2019|017/SV.05/CM-61/II/2019|FW: [Nota Dinas] Permohonan Migration APN Corporate Legacy KEMENKEU Menjadi M2M (017/SV.05/CM-61/II/2019)|2019-02-28 11:02:16.996
+0214MK.05PS-05II2019|0214/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket Promo Roaming Eropa dan Amerika di B2B2C (1 dan 30 Hari Internet &amp;3in1).pdf|2019-02-28 11:02:16.996
+048MK.05MK-01II2019|048/MK.05/MK-01/II/2019|48 - Sosialisasi Program Quick Win Family Plan|2019-02-28 11:02:16.996
