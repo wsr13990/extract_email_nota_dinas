@@ -43,26 +43,35 @@ def download_eml_attachment(eml_file,dest_path,move_eml=True):
             for i in range(1,len(msg.get_payload())):
                 attachment = msg.get_payload()[i]
                 attachment_name = attachment.get_filename()
-                open(attachment_name,'wb').write(attachment.get_payload(decode=True))
+                try:
+                    open(attachment_name,'wb').write(attachment.get_payload(decode=True))
+                    attachment_name_old=attachment_name
+                    attachment_name = attachment_name.replace(",","")
+                    attachment_name = attachment_name.replace("&","")
+                    attachment_name = attachment_name.replace(";","")
+                    ext = attachment_name.split(".")[-1]
+                    if (len(attachment_name) >= 60):
+                        attachment_name = attachment_name[:60]+"."+ext
+                        os.rename(attachment_name_old, attachment_name)
+                    if os.path.isdir(dest_path):
+                        shutil.move(os.path.join(dir_path, attachment_name),
+                                    os.path.join(dest_path, attachment_name))
+                        attachment_counter += 1
+                except FileNotFoundError:
+                    print('Possibly invalid character in the attachment file')
                 print(os.path.isfile(os.path.join(dir_path, attachment_name)))
-                attachment_name_old=attachment_name
-                attachment_name = attachment_name.replace("&","")
-                attachment_name = attachment_name.replace(";","")
-                ext = attachment_name.split(".")[-1]
-                if (len(attachment_name) >= 60):
-                    attachment_name = attachment_name[:50]+"."+ext
-                    os.rename(attachment_name_old, attachment_name)
-                print(attachment_name)
-                if os.path.isdir(dest_path):
-                    shutil.move(os.path.join(dir_path, attachment_name),
-                                os.path.join(dest_path, attachment_name))
-                    attachment_counter += 1
         fp.close()
         if count_attachments > 0 :
             if attachment_counter == count_attachments-1:
                 is_success = True
             if is_success and move_eml == True:
-                shutil.move(os.path.join(dir_path, eml_file), os.path.join(dest_path, eml_file))
+                print('All attachment succesfully downloaded')
+            else:
+                print('Failed to download some attachment')
+            if (len(eml_file) >= 60):
+                        eml_file_new = eml_file[:60]+"."+'eml'
+                        os.rename(eml_file, eml_file_new)
+            shutil.move(os.path.join(dir_path, eml_file_new), os.path.join(dest_path, eml_file_new))
 
 def main_eml():
     dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -70,9 +79,11 @@ def main_eml():
     for eml_file in files:
         if eml_file.endswith('.eml'):
             subject = get_eml_subject(eml_file)
+            subject = subject.replace("FW: ","")
+            subject = subject.replace("Fwd: ","")
             nodin = get_eml_nota_dinas(eml_file)
             if len(rekap[rekap['Nota Dinas'].str.strip()==nodin]) >= 1:
-#                os.remove(eml_file)
+                os.remove(eml_file)
                 pass
             else:         
                 num = max(rekap['No'], default=0) + 1
