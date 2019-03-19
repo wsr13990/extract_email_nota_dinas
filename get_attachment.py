@@ -43,6 +43,8 @@ def download_eml_attachment(eml_file,dest_path,move_eml=True):
             for i in range(1,len(msg.get_payload())):
                 attachment = msg.get_payload()[i]
                 attachment_name = attachment.get_filename()
+                attachment_name = attachment_name.replace("\t","")
+                print(attachment_name)
                 try:
                     open(attachment_name,'wb').write(attachment.get_payload(decode=True))
                     attachment_name_old=attachment_name
@@ -100,7 +102,8 @@ def main_eml():
                                       'Tanggal Terima' : datetime.datetime.now(),
                                       'Assessment Status' : 'not started'} , ignore_index=True)
             rekap.to_excel(FILE_REKAP,index=False)
-            rekap['Folder'] = rekap['Nota Dinas'].map(lambda x: x.replace('/',''))
+            rekap['Folder'] = rekap['Nota Dinas'].map(lambda x: x.replace('.',''))
+            rekap['Folder'] = rekap['Folder'].map(lambda x: x.replace('/',''))
             rekap[['Folder','Nota Dinas','Title / Subject','Tanggal Terima']].to_csv(TXT_FILE,sep='|', index=False, header=True)
 
             

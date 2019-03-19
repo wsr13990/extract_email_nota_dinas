@@ -96,4 +96,28 @@ UMB 0113MK.05PS-05II2019|UMB 0113/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiap
 024IS.01IY-04III2019|024/IS.01/IY-04/III/2019|Fwd: [Nota Dinas] Permohonan Migrasi APN Corporate Individual (024/IS.01/IY-04/III/2019)|2019-03-05 18:03:25.946000
 052MK.05PS-33III2019|052/MK.05/PS-33/III/2019|FW: [Nota Dinas] Pemberitahuan RFS Paket Halo Kick HVC Bank 300K (OMSKe1Th2019) (052/MK.05/PS-33/III/2019)|2019-03-05 18:03:26.091000
 049MK.05PS-33III2019|049/MK.05/PS-33/III/2019|FW: [Nota Dinas] Pemberitahuan RFS Paket Roaming Prepaid Standalone API Digicore pada UMB (Promo Eropa Amerika, Asia Reguler, Eropa Reguler, Amerika Afrika, dan Haji) (049/MK.05/PS-33/III/2019)|2019-03-05 19:05:36.625000
-0234MK.05PS-05III2019|0234/MK.05/PS-05/III/2019|FW: [Nota Dinas] Status Kesiapan Komersial (RFC) Produk Premium Bundling MD Pictures (Postpaid) (0234/MK.05/PS-05/III/2019)|2019-03-06 09:26:22.431654
+0234MK.05PS-05III2019|0234/MK.05/PS-05/III/2019|FW: [Nota Dinas] Status Kesiapan Komersial (RFC) Produk Premium Bundling MD Pictures (Postpaid) (0234/MK.05/PS-05/III/2019)|2019-03-06 09:26:22.432000
+053MK.05PS-33III2019|053/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFS Paket BUMN Sunday Sale (OMSKe4Th2019) (053/MK.05/PS-33/III/2019)|2019-03-06 19:36:01.402000
+0236MK.05PS-05III2019|0236/MK.05/PS-05/III/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Fitur Prepaid2Postpaid TDW (0236/MK.05/PS-05/III/2019)|2019-03-06 19:36:02.458000
+038MK.05PS-03III2019|038/MK.05/PS-03/III/2019|[Nota Dinas] Implementasi Roaming Standalone Prepaid (Promo Asia Australia dan Umroh) Ph1 (038/MK.05/PS-03/III/2019)|2019-03-08 09:47:05.827000
+054MK.05PS-33III2019|054/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFI Paket Roaming Postpaid Standalone pada Sistem Digicore (Umroh, Promo Asia Australia, Promo Eropa Amerika, Asia Reguler, Eropa Reguler, Amerika Afrika, dan Haji) (054/MK.05/PS-33/III/2019)|2019-03-08 09:48:56.324000
+031MK.05PS-37III2019|031/MK.05/PS-37/III/2019|[Nota Dinas] PPemberitahuan RFS Surprise Deal Postpaid Maret 2019 (UMB) (031/MK.05/PS-37/III/2019)|2019-03-08 14:12:48.978000
+057MK.05PS-33III2019|057/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket BUMN Sunday Sale (OMSKe4Th2019) (057/MK.05/PS-33/III/2019)|2019-03-11 08:34:39.575000
+056MK.05PS-33III2019|056/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket BUMN Sunday Sale dan Release Digicore (OMSKe4Th2019) (056/MK.05/PS-33/III/2019)|2019-03-11 08:34:39.766000
+055MK.05PS-33III2019|055/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFS Paket BUMN Sunday Sale dan Release Digicore (OMSKe4Th2019) (055/MK.05/PS-33/III/2019)|2019-03-11 08:34:39.868000
+032MK.05PS-37III2019|032/MK.05/PS-37/III/2019|[Nota Dinas] Pemberitahuan RFS Weekend Deal BUMN 15GB Postpaid Maret 2019 (032/MK.05/PS-37/III/2019)|2019-03-11 08:34:39.964000
+0243MK.05PS-05III2019|0243/MK.05/PS-05/III/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket BUMN Sunday Sale (0243/MK.05/PS-05/III/2019)|2019-03-11 08:34:40.339000
+0246MK.05PS-05III2019|0246/MK.05/PS-05/III/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Weekend Deal BUMN 15GB Postpaid Maret 2019 (0246/MK.05/PS-05/III/2019)|2019-03-11 08:34:40.699000
+034MK.05PS-37III2019|034/MK.05/PS-37/III/2019|[Nota Dinas] Pemberitahuan RFI Surprise Deal Postpaid Maret 2019 (MyTsel) (034/MK.05/PS-37/III/2019)|2019-03-11 16:43:29.747000
+033MK.05PS-37III2019|033/MK.05/PS-37/III/2019|[Nota Dinas] Pemberitahuan RFS Surprise Deal Postpaid Maret 2019 (MyTsel) (033/MK.05/PS-37/III/2019)|2019-03-11 16:43:30.228000
+0251MK.05PS-05III2019|0251/MK.05/PS-05/III/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Surprise Deal Postpaid Maret 2019 (UMB) (0251/MK.05/PS-05/III/2019)|2019-03-11 17:26:17.956000
+059MK.05PS-33III2019|059/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFI Enhancement CLS Info di My Telkomsel Apps (059/MK.05/PS-33/III/2019)|2019-03-13 09:48:12.986000
+060MK.05PS-33III2019|060/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFI Pemberian Offer Gimmick Setelah Pembayaran Tagihan (060/MK.05/PS-33/III/2019)|2019-03-14 10:30:30.272000
+035MK.05PS-37III2019|035/MK.05/PS-37/III/2019|[Nota Dinas] Pemberitahuan RFS Paket Family Plan Cross Brand – Postpaid Parent (MyTsel) (035/MK.05/PS-37/III/2019)|2019-03-14 10:52:07.485000
+041MK.05PS-03III2019|041/MK.05/PS-03/III/2019|[Nota Dinas] Permohonan Batch Offer untuk Pelanggan BC 06 per Maret 2019 (041/MK.05/PS-03/III/2019)|2019-03-15 08:46:12.535000
+0270MK.05PS-05III2019|0270/MK.05/PS-05/III/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR) Surprise Deal Postpaid Maret 2019 (MyTsel) (0270/MK.05/PS-05/III/2019)|2019-03-18 13:30:55.000000
+0269MK.05PS-05III2019|0269/MK.05/PS-05/III/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR) Surprise Deals Prepaid Postpaid 12 Maret 2019 UMB dan Mytsel (0269/MK.05/PS-05/III/2019)|2019-03-18 13:30:55.734000
+020SV.05CM-61III2019|020/SV.05/CM-61/III/2019|[Nota Dinas] Permohonan Pembuatan APN Komersial Corporate PLN  UP2D Jakarta (UP2DTSEL) (020/SV.05/CM-61/III/2019)|2019-03-18 13:30:55.852000
+066MK.05PS-33III2019|066/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFI Perubahan Notifikasi SMS Roaming di Malaysia (066/MK.05/PS-33/III/2019)|2019-03-19 13:16:45.537197
+0282MK.05PS-05III2019|0282/MK.05/PS-05/III/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Paket Family Plan Cross Brand – Postpaid Parent (MyTsel) (0282/MK.05/PS-05/III/2019)|2019-03-19 13:16:45.607039
+065MK.05PS-33III2019|065/MK.05/PS-33/III/2019|[Nota Dinas] Pemberitahuan RFI Migration Roaming Prepaid Non-Rollover Ph2 (065/MK.05/PS-33/III/2019)|2019-03-19 13:16:45.724862
