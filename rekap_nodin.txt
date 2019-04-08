@@ -141,6 +141,10 @@ UMB 0113MK05PS-05II2019|UMB 0113/MK.05/PS-05/II/2019|[Nota Dinas] Status Kesiapa
 077MK05PS-33IV2019|077/MK.05/PS-33/IV/2019|[Nota Dinas] Pemberitahuan RFS OCS Turbo Charging Site Jakarta (TBS) untuk FUT Postpaid Ph1 PAYU and Basic Service (077/MK.05/PS-33/IV/2019)|2019-04-05 14:12:23.826
 040MK05PS-37IV2019|040/MK.05/PS-37/IV/2019|[Nota Dinas] Pemberitahuan RFI Retail Bundling Samsung S10 (Flexible Offer) (040/MK.05/PS-37/IV/2019)|2019-04-05 14:12:23.876
 0345MK05PS-05IV2019|0345/MK.05/PS-05/IV/2019|[Nota Dinas] Status Kesiapan Komersial (RFC) Takeout Taiwan, Sri Lanka, Saudi Arabia dari Flat Call 007 (0345/MK.05/PS-05/IV/2019)|2019-04-05 16:14:19.199
-082MK05PS-33IV2019|082/MK.05/PS-33/IV/2019|[Nota Dinas] Pemberitahuan Revisi RFS OCS Turbo Charging Site Jakarta (TBS) untuk FUT Postpaid Ph1 PAYU and Basic Service (082/MK.05/PS-33/IV/2019)|2019-04-08 23:12:06.646
-081MK05PS-33IV2019|081/MK.05/PS-33/IV/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Halo Kick HVC Bank 550K (OMSKe1Th2019) (081/MK.05/PS-33/IV/2019)|2019-04-08 23:12:06.777
-0350MK05PS-05IV2019|0350/MK.05/PS-05/IV/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR)  Takeout Taiwan, Sri Lanka, Saudi Arabia dari Flat Call 007 (0350/MK.05/PS-05/IV/2019)|2019-04-08 23:12:06.876
+082MK05PS-33IV2019|082/MK.05/PS-33/IV/2019|[Nota Dinas] Pemberitahuan Revisi RFS OCS Turbo Charging Site Jakarta (TBS) untuk FUT Postpaid Ph1 PAYU and Basic Service (082/MK.05/PS-33/IV/2019)|2019-04-08 22:57:41.496
+081MK05PS-33IV2019|081/MK.05/PS-33/IV/2019|[Nota Dinas] Pemberitahuan Revisi RFS Paket Halo Kick HVC Bank 550K (OMSKe1Th2019) (081/MK.05/PS-33/IV/2019)|2019-04-08 22:57:41.543
+0350MK05PS-05IV2019|0350/MK.05/PS-05/IV/2019|[Nota Dinas] Laporan Hasil Inspeksi (ITR)  Takeout Taiwan, Sri Lanka, Saudi Arabia dari Flat Call 007 (0350/MK.05/PS-05/IV/2019)|2019-04-08 22:57:41.597
+NODIN_ERROR|NODIN_ERROR|NOTA DINAS 048 - Sosialisasi Program Quick Win Family Plan|2019-04-08 23:25:30.081
+040MK05PS-33II2019|040/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFS Halo Kick HVC Bank (040/MK.05/PS-33/II/2019)|2019-04-08 23:25:30.582
+039MK05PS-33II2019|039/MK.05/PS-33/II/2019|[Nota Dinas] Pemberitahuan RFI Penambahan Coverage Paket Roaming Promo Eropa Amerika (Internet) (039/MK.05/PS-33/II/2019)|2019-04-08 23:25:30.666
+024MK05PS-37II2019|024/MK.05/PS-37/II/2019|[Nota Dinas] Pemberitahuan Revisi Kedua RFS Paket Postpaid pada Sistem Digicore 6.3 Entertainment (OMS) (024/MK.05/PS-37/II/2019)|2019-04-08 23:25:30.929

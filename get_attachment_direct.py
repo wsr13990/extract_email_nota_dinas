@@ -14,7 +14,7 @@ import datetime as dt
 FILE_REKAP = 'New Products Assmt.xlsx'
 TXT_FILE = 'rekap_nodin.txt'
 FOLDER='new_product'
-PREV_DAY=4
+PREV_DAY=100
 
 class OutlookLib:
     def __init__(self, settings={}):
@@ -52,7 +52,11 @@ class OutlookLib:
     
     def get_nodin(self, msg):
         nodin = msg.Subject
-        nodin = nodin.split("(")[-1].split(")")[-2]
+        try:
+            nodin = nodin.split("(")[-1].split(")")[-2]
+        except IndexError as e:
+            print('Failed to get nodin number due to invalid character')
+            nodin = 'NODIN_ERROR'
         return nodin
 
     def get_sender(self, msg):
