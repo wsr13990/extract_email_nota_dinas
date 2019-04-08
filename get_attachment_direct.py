@@ -13,7 +13,8 @@ import datetime as dt
 
 FILE_REKAP = 'New Products Assmt.xlsx'
 TXT_FILE = 'rekap_nodin.txt'
-MOVE_EML = True
+FOLDER='new_product'
+PREV_DAY=4
 
 class OutlookLib:
     def __init__(self, settings={}):
@@ -32,11 +33,12 @@ class OutlookLib:
         if folder == None:
             messages = ns.GetDefaultFolder(6).Items
         else:
-            messages = ns.GetDefaultFolder(6).Folders(folder).Items
+            messages = ns.GetDefaultFolder(6).Folders(FOLDER).Items
         messages.Sort("[ReceivedTime]", True)
         last_n_day = dt.datetime.now() - dt.timedelta(days = n)
         last_n_day = last_n_day.strftime('%m/%d/%Y %H:%M %p') 
         messages = messages.Restrict("[ReceivedTime] >= '" + last_n_day +"'")
+        print(messages)
         return messages
 
     def get_body(self, msg):
@@ -67,14 +69,15 @@ def Main():
     global attach
 
     outlook = OutlookLib()
-    messages = outlook.get_messages('new_product')
+    messages = outlook.get_messages(FOLDER,PREV_DAY)
 
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    rekap = pd.read_excel(FILE_REKAP,sheet_name='Sheet1')
     # Loop all messages
     msg = messages.GetFirst()
+    if msg == None:
+        print('Failed to read email due to unknown error, try change PREV_DAY variable to larger value')
     while msg:
-        #print msg.Subject
+        rekap = pd.read_excel(FILE_REKAP,sheet_name='Sheet1')
         nodin = outlook.get_nodin(msg)
         subject = outlook.get_subject(msg)
         folder = outlook.get_nodin(msg).replace('/','').replace('.','')
@@ -99,10 +102,10 @@ def Main():
                           'Assessment Status' : 'not started'} , ignore_index=True)
         msg = messages.GetNext()
         print('Done downloading '+nodin)
-    rekap.to_excel(FILE_REKAP,index=False)
-    rekap['Folder'] = rekap['Nota Dinas'].map(lambda x: x.replace('.',''))
-    rekap['Folder'] = rekap['Folder'].map(lambda x: x.replace('/',''))
-    rekap[['Folder','Nota Dinas','Title / Subject','Tanggal Terima']].to_csv(TXT_FILE,sep='|', index=False, header=True)
-            
+        rekap.to_excel(FILE_REKAP,index=False)
+        rekap['Folder'] = rekap['Nota Dinas'].map(lambda x: x.replace('.',''))
+        rekap['Folder'] = rekap['Folder'].map(lambda x: x.replace('/',''))
+        rekap[['Folder','Nota Dinas','Title / Subject','Tanggal Terima']].to_csv(TXT_FILE,sep='|', index=False, header=True)
+
 if __name__ == "__main__":
     Main()
