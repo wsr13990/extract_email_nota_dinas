@@ -1,0 +1,1 @@
+pipenv run python get_attachment_direct.py
